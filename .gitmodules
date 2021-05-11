@@ -1,0 +1,21 @@
+[submodule "pack/vendor/start/nerdtree"]
+	path = pack/vendor/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/vendor/start/vim-fugitive"]
+	path = pack/vendor/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/vendor/start/jedi-vim"]
+	path = pack/vendor/start/jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "pack/vendor/start/ale"]
+	path = pack/vendor/start/ale
+	url = https://github.com/dense-analysis/ale.git
+[submodule "pack/vendor/start/nerdcommenter"]
+	path = pack/vendor/start/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
+[submodule "pack/themes/opt/gruvbox"]
+	path = pack/themes/opt/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "pack/vendor/start/editorconfig-vim"]
+	path = pack/vendor/start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
