@@ -13,9 +13,15 @@
 [submodule "pack/vendor/start/nerdcommenter"]
 	path = pack/vendor/start/nerdcommenter
 	url = https://github.com/preservim/nerdcommenter.git
-[submodule "pack/themes/opt/gruvbox"]
-	path = pack/themes/opt/gruvbox
-	url = https://github.com/morhetz/gruvbox.git
 [submodule "pack/vendor/start/editorconfig-vim"]
 	path = pack/vendor/start/editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim.git
+[submodule "pack/vendor/start/vim-gitgutter"]
+	path = pack/vendor/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
+[submodule "pack/vendor/start/vim-surround"]
+	path = pack/vendor/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/vendor/opt/gruvbox"]
+	path = pack/vendor/opt/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
