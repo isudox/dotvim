@@ -1,4 +1,3 @@
-" Basic settings
 set nocompatible            " no vi compatible mode
 filetype plugin indent on   " for plugins to load correctly
 filetype off
