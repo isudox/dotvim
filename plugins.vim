@@ -15,8 +15,8 @@ let g:ale_completion_enabled = 0
 let g:ale_sign_column_always = 1
 
 " autoformatter settings
-autocmd FileType python noremap <buffer> <F4> :Autoformat<CR>
-autocmd FileType python noremap <buffer> <F8> :call Autopep8()<CR>
+noremap <F4> :Autoformat<CR>
+noremap <leader><F4> :AutoformatLine<CR>
 
 " nerdcommenter settings
 let g:NERDDefaultAlign = 'left'

@@ -25,3 +25,6 @@
 [submodule "pack/vendor/opt/gruvbox"]
 	path = pack/vendor/opt/gruvbox
 	url = https://github.com/morhetz/gruvbox.git
+[submodule "pack/vendor/start/vim-autoformat"]
+	path = pack/vendor/start/vim-autoformat
+	url = https://github.com/vim-autoformat/vim-autoformat.git
