@@ -33,7 +33,6 @@ if has("mouse")
     set mouse=a
 endif
 set mousehide
-set textwidth=79
 
 " Search settings
 set incsearch

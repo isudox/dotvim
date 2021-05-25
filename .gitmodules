@@ -28,3 +28,6 @@
 [submodule "pack/vendor/start/vim-autoformat"]
 	path = pack/vendor/start/vim-autoformat
 	url = https://github.com/vim-autoformat/vim-autoformat.git
+[submodule "pack/vendor/opt/onedark"]
+	path = pack/vendor/opt/onedark
+	url = https://github.com/joshdick/onedark.vim.git
