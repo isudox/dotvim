@@ -31,3 +31,6 @@
 [submodule "pack/vendor/opt/onedark"]
 	path = pack/vendor/opt/onedark
 	url = https://github.com/joshdick/onedark.vim.git
+[submodule "/Users/bytedance/.vim/pack/vendor/start/vim-go"]
+	path = /Users/bytedance/.vim/pack/vendor/start/vim-go
+	url = https://github.com/fatih/vim-go.git
