@@ -34,3 +34,12 @@
 [submodule "/Users/bytedance/.vim/pack/vendor/start/vim-go"]
 	path = /Users/bytedance/.vim/pack/vendor/start/vim-go
 	url = https://github.com/fatih/vim-go.git
+[submodule "/Users/zhangjian/.vim/pack/vendor/start/lightline"]
+	path = /Users/zhangjian/.vim/pack/vendor/start/lightline
+	url = git@github.com:itchyny/lightline.vim.git
+[submodule "/Users/zhangjian/.vim/pack/vendor/opt/fzf"]
+	path = /Users/zhangjian/.vim/pack/vendor/opt/fzf
+	url = git@github.com:junegunn/fzf.git
+[submodule "/Users/zhangjian/.vim/pack/vendor/opt/fzf.vim"]
+	path = /Users/zhangjian/.vim/pack/vendor/opt/fzf.vim
+	url = git@github.com:junegunn/fzf.vim.git

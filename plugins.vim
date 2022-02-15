@@ -43,3 +43,8 @@ endfunction
 
 " editorconfig settings.
 let g:EditorConfig_exclude_patterns = ['fugitive://.*', 'scp://.*']
+
+" fzf settings.
+packadd! fzf
+packadd! fzf.vim
+set rtp+=/usr/local/opt/fzf
