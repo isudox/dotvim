@@ -28,11 +28,17 @@ set foldmethod=indent  " default keymap is za
 set foldlevel=99
 set tabstop=4
 set shiftwidth=4
+set foldmethod=manual
 set expandtab
+set clipboard^=unnamed  " use the system register
 if has("mouse")
     set mouse=a
 endif
 set mousehide
+noremap <Up> <NOP>
+noremap <Down> <NOP>
+noremap <Left> <NOP>
+noremap <Right> <NOP>
 
 " Search settings
 set incsearch

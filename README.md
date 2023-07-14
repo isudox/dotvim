@@ -16,3 +16,9 @@ rm -rf ~/.vim/pack/vendor/start/blah
 git commit -am "Remove a submodule."
 git push
 ```
+
+## Pull all submodules updates
+
+```shell
+git pull --recurse-submodules
+```
