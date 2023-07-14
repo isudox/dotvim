@@ -31,12 +31,15 @@
 [submodule "pack/vendor/opt/onedark"]
 	path = pack/vendor/opt/onedark
 	url = https://github.com/joshdick/onedark.vim.git
-[submodule "/Users/bytedance/.vim/pack/vendor/start/vim-go"]
-	path = /Users/bytedance/.vim/pack/vendor/start/vim-go
+[submodule "pack/vendor/start/vim-go"]
+	path = pack/vendor/start/vim-go
 	url = https://github.com/fatih/vim-go.git
-[submodule "/Users/zhangjian/.vim/pack/vendor/start/lightline"]
-	path = /Users/zhangjian/.vim/pack/vendor/start/lightline
+[submodule "pack/vendor/start/lightline"]
+	path = pack/vendor/start/lightline
 	url = git@github.com:itchyny/lightline.vim.git
-[submodule "/Users/sudoz/.vim/pack/vendor/start/fzf"]
-	path = /Users/sudoz/.vim/pack/vendor/start/fzf
+[submodule "pack/vendor/start/fzf"]
+	path = pack/vendor/start/fzf
 	url = git@github.com:junegunn/fzf.git
+[submodule "pack/vendor/start/fzf.vim"]
+	path = pack/vendor/start/fzf.vim
+	url = git@github.com:junegunn/fzf.vim.git
